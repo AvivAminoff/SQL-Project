@@ -1,9 +1,8 @@
-This project has 2 parts.
+Hello!
 
-The first is one called "SQL Script".
-In this part, you can see the full SQL scripts inculde the queries.
+In this project I built a database from scratch for managing a concert hall.
+The building of the database and the queries to retrieve the data were done in SQL.
+You can download the SQL Project file and see all the details.
+In addition, you can enter SQL Script to see the full script.
 
-The second part is called " מצגת פרוייקט SQL".
-In this part you can download the file and see the summary of the project.
-
-Have fun!
+have fun!
